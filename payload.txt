@@ -1,0 +1,1 @@
+<pre>system('ls -l /home/kiddie')</pre>
